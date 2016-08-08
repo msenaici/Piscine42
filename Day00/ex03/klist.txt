@@ -1,0 +1,5 @@
+Credentials cache: API:52F55269-E789-4791-829A-62EC303B0463
+        Principal: msenaici@42.FR
+
+  Issued                Expires               Principal
+Aug  1 15:10:15 2016  Aug  8 15:09:56 2016  krbtgt/42.FR@42.FR
