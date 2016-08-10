@@ -6,7 +6,7 @@
 /*   By: msenaici <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/08/08 06:50:10 by msenaici          #+#    #+#             */
-/*   Updated: 2016/08/09 13:50:01 by msenaici         ###   ########.fr       */
+/*   Updated: 2016/08/10 19:49:14 by msenaici         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@ int		ft_sqrt(int nb)
 	i = 0;
 	while (i * i < nb)
 		i++;
-	if (i * i == nb )
+	if (i * i == nb)
 		return (i);
 	else
 		return (0);
